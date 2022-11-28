@@ -236,10 +236,14 @@ iframe {
   display: block;
 }
 
+
+
+
 /*---------------------------------------------*/
 
 .login100-form-avatar img {
   width: 250px;
+text-align: center;
 }
 
 
