@@ -242,8 +242,10 @@ iframe {
 /*---------------------------------------------*/
 
 .login100-form-avatar img {
-  width: 250px;
-  text-align: center;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
 }
 
 
